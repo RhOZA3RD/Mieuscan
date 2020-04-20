@@ -1,5 +1,5 @@
 # Mieuscan
-Scan de portas de endereços (Python)
+Scan de portas abertas (Python)
 
 Modo de uso: ./Mieuscan.py ("Endereço IP")
 
